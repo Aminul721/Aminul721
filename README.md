@@ -3,7 +3,7 @@
 <h3 align="center">A passionate front-end developer from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashiqulshourav&label=Profile%20views&color=0e75b6&style=flat" alt="Aminul721" /> </p>
+<p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Aminul721" /> </p>
 
 <p align="left"> <a href="https://twitter.com/md_aminul721" target="blank"><img src="https://img.shields.io/twitter/follow/ashiqulshourav?logo=twitter&style=for-the-badge" alt="ashiqulshourav" /></a> </p>
 
