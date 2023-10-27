@@ -26,8 +26,8 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/aminul-islam-sunbin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aminul721" height="30" width="40" /></a>
 <a href="https://www.facebook.com/sanbin.islam.3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Aminul721" height="30" width="40" /></a>
-<a href="[https://twitter.com/ashiqulshourav](https://twitter.com/md_aminul721)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Aminul721" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/9673494/md-aminul-islam?tab=profile" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AStack_Overflow_icon.svg&psig=AOvVaw1LLNuL_-blCX2wobDaCJg5&ust=1698474484264000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCPDir9TMlYIDFQAAAAAdAAAAABAE" alt="Aminul721" height="30" width="40" /></a>
+<a href="https://twitter.com/md_aminul721" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Aminul721" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/9673494/md-aminul-islam?tab=profile" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" alt="Aminul721" height="30" width="40" /></a>
 </p>
 
 <br/>
