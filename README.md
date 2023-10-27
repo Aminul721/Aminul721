@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashiqulshourav&label=Profile%20views&color=0e75b6&style=flat" alt="Aminul721" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ashiqulshourav" target="blank"><img src="https://img.shields.io/twitter/follow/ashiqulshourav?logo=twitter&style=for-the-badge" alt="ashiqulshourav" /></a> </p>
+<p align="left"> <a href="https://twitter.com/md_aminul721" target="blank"><img src="https://img.shields.io/twitter/follow/ashiqulshourav?logo=twitter&style=for-the-badge" alt="ashiqulshourav" /></a> </p>
 
-- 🔭 I’m currently working on [brokertarieven](marbslifestyle.com) & [brokerdata](https://brokerdata.tech) & [compareallbrokers](https://myhappyclinic.nl/)
+- 🔭 I’m currently working on [marbslifestyle](marbslifestyle.com) & [brokerdata](https://brokerdata.tech) & [myhappyclinic](https://myhappyclinic.nl/)
 
 - 🌱 I’m currently learning **Node JS & React Js**
 
 - 🤝 I’m looking for help with **JavaScript**
 
-- 👨‍💻 All of my projects are available at this [link](https://github.com/ashiqulshourav/websites)
+- 👨‍💻 All of my projects are available at this [link](https://github.com/Aminul721/websites)
 
 - 💬 Ask me about **HTML, CSS, SCSS, figma, invision, Bootstrap, tailwind, vanilla JS, jQuery, reactJS, Ajax, API**
 
