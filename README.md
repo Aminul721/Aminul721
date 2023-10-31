@@ -3,8 +3,6 @@
 <h3 align="center">A passionate front-end developer from Bangladesh</h3>
 <p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Aminul721" /> </p>
 
-<p align="left"> <a href="https://twitter.com/md_aminul721" target="blank"><img src="https://img.shields.io/twitter/follow/ashiqulshourav?logo=twitter&style=for-the-badge" alt="ashiqulshourav" /></a> </p>
-
 - 🔭 I’m currently working on [marbslifestyle](marbslifestyle.com) & [brokerdata](https://brokerdata.tech) & [myhappyclinic](https://myhappyclinic.nl/)
 
 - 🌱 I’m currently learning **Node JS & React Js**
