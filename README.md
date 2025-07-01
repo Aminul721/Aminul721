@@ -3,19 +3,17 @@
 <h3 align="center">A passionate front-end developer from Bangladesh</h3>
 <p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Aminul721" /> </p>
 
-- 🔭 I’m currently working on [marbslifestyle](https://marbslifestyle.com/) , [brokertarieven](https://brokertarieven.nl/) , [opgroeigids](https://opgroeigids.nl/) , [spoedklus](https://spoedklus.nl/) , [brokerdata](https://brokerdata.tech)  & [solarchecker](https://solarchecker.nl/)
+-🧑‍💻 There is my themeforest approve html and nextjs template link: [logistip] (https://themeperch.net/html/logistip/home-1.html) , [politixy] (https://themeperch.net/html/politixy/home-1.html) , [architronix-nextjs] (https://preview.themeforest.net/item/architronix-nextjs-creative-interior-exterior-architecture-business-templates-by-tailwind-css/full_screen_preview/51303546?_ga=2.77047317.180053977.1751172116-1925773760.1747107567&_gac=1.192022232.1748923746.CjwKCAjwl_XBBhAUEiwAWK2hzjKLQmvtKvMDB9oKhmdkyrKAKolYC2GZMIwWaozkIqf3YPHYeb0Y9RoCSB4QAvD_BwE) , [nextpro-nextjs] (https://nextpro-nextjs.vercel.app/home-1/) [nextpro] (https://themeperch.net/html/nextpro/index1.html)
 
-- 🌱 I’m currently learning **Node JS & React Js**
+- 🔭 I’m previous work [marbslifestyle](https://marbslifestyle.com/) , [brokertarieven](https://brokertarieven.nl/) , [opgroeigids](https://opgroeigids.nl/) , [spoedklus](https://spoedklus.nl/) , [brokerdata](https://brokerdata.tech)  & [solarchecker](https://solarchecker.nl/)
 
 - 🤝 I’m looking for help with **JavaScript**
 
 - 👨‍💻 All of my projects are available at this [link](https://github.com/Aminul721/websites)
 
-- 💬 Ask me about **HTML, CSS, SCSS, figma, invision, Bootstrap, tailwind, vanilla JS, jQuery, reactJS, Ajax, API**
+- 💬 Ask me about **HTML, CSS, SCSS, figma, invision, Bootstrap, tailwind, vanilla JS, jQuery, reactJS, nextJS, GSAP, Ajax, API**
 
-- 📫 How to reach me **aminul721@gmail.com**
-
-- 📄 Know about my experiences in this [Resume](https://drive.google.com/file/d/1CtAaRk0t9mYBtYFwL5mHiNbbAXEfFPvM/view?usp=drive_link)
+- 📫 How to reach me **aminul721@gmail.com** or Cell: 01744802843
 
 <br/>
 <h3 align="left">Connect with me:</h3>
@@ -41,6 +39,5 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
   <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> 
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
 </p>
 
